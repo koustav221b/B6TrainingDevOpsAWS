@@ -2,6 +2,9 @@ jbxbkscnjsncls
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 some line added
 >>>>>>> dev1
+=======
+Line added dev-2
