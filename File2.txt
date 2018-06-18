@@ -1,4 +1,7 @@
 jbxbkscnjsncls
 
 
-mnade changes
+<<<<<<< HEAD
+
+some line added
+>>>>>>> dev2
