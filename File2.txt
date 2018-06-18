@@ -1,7 +1,4 @@
 jbxbkscnjsncls
 
 
-<<<<<<< HEAD
-
-some line added
->>>>>>> dev2
+Line added dev-2
