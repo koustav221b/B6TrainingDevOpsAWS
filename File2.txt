@@ -4,4 +4,4 @@ jbxbkscnjsncls
 <<<<<<< HEAD
 
 some line added
->>>>>>> dev2
+>>>>>>> dev1
